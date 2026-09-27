@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\home assignment\home assignment\bin\Debug\home assignment.exe.config
+C:\Users\HP\source\repos\home assignment\home assignment\bin\Debug\home assignment.exe
+C:\Users\HP\source\repos\home assignment\home assignment\bin\Debug\home assignment.pdb
+C:\Users\HP\source\repos\home assignment\home assignment\obj\Debug\home assignment.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\home assignment\home assignment\obj\Debug\home_assignment.Form1.resources
+C:\Users\HP\source\repos\home assignment\home assignment\obj\Debug\home_assignment.Properties.Resources.resources
+C:\Users\HP\source\repos\home assignment\home assignment\obj\Debug\home assignment.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\home assignment\home assignment\obj\Debug\home assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\home assignment\home assignment\obj\Debug\home assignment.exe
+C:\Users\HP\source\repos\home assignment\home assignment\obj\Debug\home assignment.pdb
